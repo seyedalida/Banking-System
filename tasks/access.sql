@@ -1,0 +1,3 @@
+CREATE USER 'Blazkowicz'@'%' IDENTIFIED BY 'William1939';
+GRANT SELECT ON *.* TO 'Blazkowicz'@'%';
+FLUSH PRIVILEGES;
