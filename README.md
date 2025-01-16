@@ -1,6 +1,6 @@
 # Banking System Project
 
-This repository contains a database management system project for a banking system. The project is divided into multiple components and phases to design, implement, and test a robust system for managing bank accounts, loans, employees, customers, and transactions.
+This repository contains a database management system project for a banking system. The project is divided into multiple components and phases to design, implement, and test a robust system for managing bank accounts, loans, employees, customers, transactions and installments.
 
 ---
 
@@ -55,7 +55,7 @@ This folder will include work reports for the project phases:
 
 ### **2. Run the Project**
 
-1. Make sure to set up the MariaDB package by executing `pip install mariadb` in your virtual environment.
+1. Make sure to set up the MariaDB package by executing `pip install mariadb` in your virual environment.
 2. Use the `crud.py` file to interact with the database and perform operations.
 3. Test the system with the `test.py` script, which demonstrates the functionality of the `crud.py` file, including its dynamic CRUD operations.
 
@@ -75,6 +75,10 @@ Refer to the diagrams in the `diagrams` folder to understand the database struct
 - **Testing**: Python scripts for validating functionalities.
 
 ---
+
+## Contributions
+
+Contributions are welcome! If you have any suggestions, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
 ## License
 
